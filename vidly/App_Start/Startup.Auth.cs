@@ -3,7 +3,7 @@ using Microsoft.Owin;
 using Microsoft.Owin.Security.Cookies;
 using Owin;
 
-namespace vidly
+namespace Vidly
 {
     public partial class Startup
     {
